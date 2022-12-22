@@ -32,10 +32,11 @@ export default function Home({ posts }) {
             Iterating and finding solutions to problems, especially in the web3 space.
           </p>
           <ul className="list-none pt-0 prose text-base dark:prose-dark">
-            <li>Head of Marketing at <a href="https://www.twitter.com/wordcel_club" target="_blank" rel="noopener noreferrer">Wordcel</a></li>
-            <li>Member of the <a href="https://www.twitter.com/SuperteamDAO" target="_blank" rel="noopener noreferrer">SuperteamDAO</a></li>
-            <li>Co-founder of the Slippery Slopes Podcast</li>
-            <li>Previously wrote content at Timeswap Labs</li>
+            <li>Head of Marketing and Comms at <a href="https://www.twitter.com/wordcel_club" target="_blank" rel="noopener noreferrer">Wordcel</a></li>
+            <li>Member and Head of the Host Committee at the <a href="https://www.twitter.com/SuperteamDAO" target="_blank" rel="noopener noreferrer">SuperteamDAO</a></li>
+            <li>Co-founder of the <a href="https://www.youtube.com/@slipperyslopes298" target="_blank" rel="noopener noreferrer">Slippery Slopes Podcast</a></li>
+            <li>Writing on my <a href="https://www.wordcelclub.com/paarug.sol" target="_blank" rel="noopener noreferrer">Blog</a> and <a href="https://twitter.com/paarugsethi" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+            <li>Previously wrote content at <a href="https://twitter.com/TimeswapLabs" target="_blank" rel="noopener noreferrer">Timeswap Labs</a></li>
           </ul>
         </div>
         {/* <ul className="divide-y divide-gray-200 dark:divide-gray-700">

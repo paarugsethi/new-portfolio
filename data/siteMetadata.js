@@ -11,11 +11,12 @@ const siteMetadata = {
   image: '',
   socialBanner: '',
   email: 'paarugsethi@gmail.com',
-  github: 'https://github.com',
   twitter: 'https://twitter.com/paarugsethi',
+  linkedin: 'https://www.linkedin.com/in/paarugsethi/',
+  blog: 'https://www.wordcelclub.com/paarug.sol',
+  github: 'https://github.com/paarugsethi',
   facebook: '',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com/',
+  youtube: 'https://www.youtube.com/@slipperyslopes298',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
