@@ -6,7 +6,6 @@ tags: ['news', 'social-media', 'taleb', 'mental-health']
 draft: false
 summary: 'I have stopped reading the news and I have never felt better. Here is why.'
 layout: PostSimple
-canonicalUrl: https://tailwind-nextjs-starter-blog.vercel.app/blog/no-news-for-me-please/
 externalLink: https://wordcelclub.com/paarug.sol/no-news-for-me-please/
 ---
 

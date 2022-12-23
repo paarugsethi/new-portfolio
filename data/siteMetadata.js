@@ -15,6 +15,7 @@ const siteMetadata = {
   linkedin: 'https://www.linkedin.com/in/paarugsethi/',
   blog: 'https://www.wordcelclub.com/paarug.sol',
   github: 'https://github.com/paarugsethi',
+  instagram: 'https://www.instagram.com/paarugsethi/',
   facebook: '',
   youtube: 'https://www.youtube.com/@slipperyslopes298',
   locale: 'en-US',

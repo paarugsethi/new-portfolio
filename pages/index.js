@@ -28,13 +28,12 @@ export default function Home({ posts }) {
             {siteMetadata.description}
           </p>
           <p className="prose text-base max-w-none pt-0 pb-3 dark:prose-dark xl:col-span-2">
-            A curious individual with a passion for attempting big things and being humbled by them, along with quirks for creating, marketing, writing, speaking, development and everything else that catches attention and is decentralized.
-            Iterating and finding solutions to problems, especially in the web3 space.
+            An asymmetry hunter and polymath in aspiration. I love writing, creating visual content, and learning new things like creating AI tools and web3 development that make my inner nerd happy. Either lifting, reading, writing, drinking coffee or doing BJJ right now depending on the time of the day.
           </p>
           <ul className="list-none pt-0 prose text-base dark:prose-dark">
             <li>Head of Marketing and Comms at <a href="https://www.twitter.com/wordcel_club" target="_blank" rel="noopener noreferrer">Wordcel</a></li>
             <li>Member and Head of the Host Committee at the <a href="https://www.twitter.com/SuperteamDAO" target="_blank" rel="noopener noreferrer">SuperteamDAO</a></li>
-            <li>Co-founder of the <a href="https://www.youtube.com/@slipperyslopes298" target="_blank" rel="noopener noreferrer">Slippery Slopes Podcast</a></li>
+            <li>Co-founder of the <a href="https://linktr.ee/slipperyslopes" target="_blank" rel="noopener noreferrer">Slippery Slopes Podcast</a></li>
             <li>Writing on my <a href="https://www.wordcelclub.com/paarug.sol" target="_blank" rel="noopener noreferrer">Blog</a> and <a href="https://twitter.com/paarugsethi" target="_blank" rel="noopener noreferrer">Twitter</a></li>
             <li>Previously wrote content at <a href="https://twitter.com/TimeswapLabs" target="_blank" rel="noopener noreferrer">Timeswap Labs</a></li>
           </ul>

@@ -5,13 +5,15 @@ import Youtube from './youtube.svg'
 import Linkedin from './linkedin.svg'
 import Twitter from './twitter.svg'
 import Blog from './blog.svg'
+import Instagram from './instagram.svg'
 
-// Icons taken from: https://simpleicons.org/
+// Icons: https://simpleicons.org/
 
 const components = {
   mail: Mail,
   github: Github,
   facebook: Facebook,
+  instagram: Instagram,
   youtube: Youtube,
   linkedin: Linkedin,
   twitter: Twitter,
