@@ -43,7 +43,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
             <div>
                 <Link
                   href={`${externalLink}`}
-                  className="text-base font-bold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-xl sm:leading-10 md:text-2xl md:leading-14 underline"
+                  className="text-base font-bold leading-9 tracking-tight text-gray-900 underline dark:text-gray-100 sm:text-xl sm:leading-10 md:text-2xl md:leading-14"
                 >
                   Read the complete post here on Wordcel
                 </Link>

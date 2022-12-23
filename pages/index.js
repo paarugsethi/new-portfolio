@@ -27,10 +27,11 @@ export default function Home({ posts }) {
           <p className="text-lg leading-3 text-gray-500 dark:text-gray-400">
             {siteMetadata.description}
           </p>
-          <p className="prose text-base max-w-none pt-0 pb-3 dark:prose-dark xl:col-span-2">
-            An asymmetry hunter and polymath in aspiration. I love writing, creating visual content, and learning new things like creating AI tools and web3 development that make my inner nerd happy. Either lifting, reading, writing, drinking coffee or doing BJJ right now depending on the time of the day.
+          <p className="prose max-w-none pt-0 pb-3 text-base dark:prose-dark xl:col-span-2">
+            An asymmetry hunter and polymath in aspiration. I love writing, creating visual content, and learning new things like creating AI tools and web3 development that make my inner nerd happy. 
+            Either lifting, reading, writing, drinking coffee or doing BJJ right now depending on the time of the day.
           </p>
-          <ul className="list-none pt-0 prose text-base dark:prose-dark">
+          <ul className="prose list-none pt-0 text-base dark:prose-dark">
             <li>Head of Marketing and Comms at <a href="https://www.twitter.com/wordcel_club" target="_blank" rel="noopener noreferrer">Wordcel</a></li>
             <li>Member and Head of the Host Committee at the <a href="https://www.twitter.com/SuperteamDAO" target="_blank" rel="noopener noreferrer">SuperteamDAO</a></li>
             <li>Co-founder of the <a href="https://linktr.ee/slipperyslopes" target="_blank" rel="noopener noreferrer">Slippery Slopes Podcast</a></li>
