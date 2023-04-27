@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Paarug Sethi',
   author: 'Paarug Sethi',
   headerTitle: 'PS',
-  description: 'Podcaster. Wordcel. Aspiring Rotator and Marketer.',
+  description: 'Swiss Army Knife at work. Podcaster. Aspiring Rotator.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.paarug.com/',

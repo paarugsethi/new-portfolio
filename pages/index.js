@@ -28,10 +28,10 @@ export default function Home({ posts }) {
             {siteMetadata.description}
           </p>
           <p className="prose max-w-none pt-0 pb-3 text-base dark:prose-dark xl:col-span-2">
-            An asymmetry hunter and polymath in aspiration. I love writing, creating visual content,
-            and learning new things like creating AI tools and web3 development that make my inner
-            nerd happy. Either lifting, reading, writing, drinking coffee or doing BJJ right now
-            depending on the time of the day.
+            A technology brother and polymath in aspiration. I love writing, creating visual
+            content, and learning new things like creating AI tools and web3 development that make
+            my inner nerd happy. Either lifting, reading, writing, drinking coffee or doing BJJ
+            right now depending on the time of the day.
           </p>
           <ul className="prose list-none pt-0 text-base dark:prose-dark">
             <li>
