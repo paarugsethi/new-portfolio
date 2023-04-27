@@ -35,13 +35,9 @@ export default function Home({ posts }) {
           </p>
           <ul className="prose list-none pt-0 text-base dark:prose-dark">
             <li>
-              Head of Marketing and Comms at{' '}
-              <a
-                href="https://www.twitter.com/wordcel_club"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Wordcel
+              Head of Growth and Marketing at{' '}
+              <a href="https://www.twitter.com/gumisfunn" target="_blank" rel="noopener noreferrer">
+                Gum
               </a>
             </li>
             <li>
