@@ -14,6 +14,7 @@ const siteMetadata = {
   twitter: 'https://twitter.com/paarugsethi',
   linkedin: 'https://www.linkedin.com/in/paarugsethi/',
   blog: 'https://www.wordcelclub.com/paarug.sol',
+  substack: 'https://paarugsethi.substack.com/',
   github: 'https://github.com/paarugsethi',
   instagram: 'https://www.instagram.com/paarugsethi/',
   facebook: '',

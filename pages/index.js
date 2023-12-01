@@ -35,19 +35,29 @@ export default function Home({ posts }) {
           </p>
           <ul className="prose list-none pt-0 text-base dark:prose-dark">
             <li>
-              Head of Growth and Marketing at{' '}
-              <a href="https://www.twitter.com/gumisfunn" target="_blank" rel="noopener noreferrer">
-                Gum
-              </a>
-            </li>
-            <li>
-              Member and Head of the Host Committee at the{' '}
+              Community and Operations at{' '}
               <a
                 href="https://www.twitter.com/SuperteamDAO"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                SuperteamDAO
+                Superteam
+              </a>
+            </li>
+            <li>
+              Writing content for{' '}
+              <a
+                href="https://www.twitter.com/SuperteamEarn"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Superteam Earn
+              </a>
+            </li>
+            <li>
+              Previously Head of Growth and Marketing at{' '}
+              <a href="https://www.twitter.com/gumisfunn" target="_blank" rel="noopener noreferrer">
+                Gum
               </a>
             </li>
             <li>
@@ -58,11 +68,7 @@ export default function Home({ posts }) {
             </li>
             <li>
               Writing on my{' '}
-              <a
-                href="https://www.wordcelclub.com/paarug.sol"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
+              <a href="https://paarugsethi.substack.com/" target="_blank" rel="noopener noreferrer">
                 Blog
               </a>{' '}
               and{' '}

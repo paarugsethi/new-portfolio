@@ -11,7 +11,7 @@ export default function Footer() {
           <SocialIcon kind="twitter" href={siteMetadata.twitter} size="6" />
           <SocialIcon kind="linkedin" href={siteMetadata.linkedin} size="6" />
           <SocialIcon kind="instagram" href={siteMetadata.instagram} size="6" />
-          <SocialIcon kind="blog" href={siteMetadata.blog} size="6" />
+          <SocialIcon kind="substack" href={siteMetadata.substack} size="6" />
           <SocialIcon kind="github" href={siteMetadata.github} size="6" />
           <SocialIcon kind="youtube" href={siteMetadata.youtube} size="6" />
         </div>

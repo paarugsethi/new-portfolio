@@ -4,6 +4,7 @@ import Facebook from './facebook.svg'
 import Youtube from './youtube.svg'
 import Linkedin from './linkedin.svg'
 import Twitter from './twitter.svg'
+import Substack from './substack.svg'
 import Blog from './blog.svg'
 import Instagram from './instagram.svg'
 
@@ -18,6 +19,7 @@ const components = {
   linkedin: Linkedin,
   twitter: Twitter,
   blog: Blog,
+  substack: Substack,
 }
 
 const SocialIcon = ({ kind, href, size = 8 }) => {
