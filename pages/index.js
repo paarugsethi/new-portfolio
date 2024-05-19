@@ -28,20 +28,16 @@ export default function Home({ posts }) {
             {siteMetadata.description}
           </p>
           <p className="prose max-w-none pt-0 pb-3 text-base dark:prose-dark xl:col-span-2">
-            A technology brother and polymath in aspiration. I love writing, creating visual
-            content, and learning new things like creating AI tools and web3 development that make
-            my inner nerd happy. Either lifting, reading, writing, drinking coffee or doing BJJ
-            right now depending on the time of the day.
+            A technology brother and polymath in aspiration. I love writing, creating content, and
+            learning new things that make my inner nerd happy. Either lifting, reading, writing,
+            drinking coffee or doing Jiu Jitsu right now depending on the time of the day, all while
+            listening to a podcast.
           </p>
           <ul className="prose list-none pt-0 text-base dark:prose-dark">
             <li>
-              Community and Operations at{' '}
-              <a
-                href="https://www.twitter.com/SuperteamDAO"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Superteam
+              Content and Research at{' '}
+              <a href="https://squads.so/" target="_blank" rel="noopener noreferrer">
+                Squads Labs
               </a>
             </li>
             <li>
@@ -52,6 +48,16 @@ export default function Home({ posts }) {
                 rel="noopener noreferrer"
               >
                 Superteam Earn
+              </a>
+            </li>
+            <li>
+              Previously lead Community at{' '}
+              <a
+                href="https://www.twitter.com/SuperteamDAO"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Superteam
               </a>
             </li>
             <li>
@@ -74,12 +80,6 @@ export default function Home({ posts }) {
               and{' '}
               <a href="https://twitter.com/paarugsethi" target="_blank" rel="noopener noreferrer">
                 Twitter
-              </a>
-            </li>
-            <li>
-              Previously wrote content at{' '}
-              <a href="https://twitter.com/TimeswapLabs" target="_blank" rel="noopener noreferrer">
-                Timeswap Labs
               </a>
             </li>
           </ul>

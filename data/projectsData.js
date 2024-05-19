@@ -1,5 +1,11 @@
 const projectsData = [
   {
+    title: 'dilli [dot] wiki',
+    description: `a local's guide to everything you need to know about falling in love with Dilli.`,
+    imgSrc: '/static/images/dilli.png',
+    href: 'https://dilli.wiki/',
+  },
+  {
     title: 'write me an email',
     description: `'write me an email' is a tool to help you write a complete email in just a couple of clicks using AI. Don't dread writing that email anymore. AI's got your back!`,
     imgSrc: '/static/images/email.jpeg',
