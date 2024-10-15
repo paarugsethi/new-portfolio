@@ -41,7 +41,7 @@ export default function Home({ posts }) {
               </a>
             </li>
             <li>
-              Writing content for{' '}
+              Memes and posts for{' '}
               <a
                 href="https://www.twitter.com/SuperteamEarn"
                 target="_blank"

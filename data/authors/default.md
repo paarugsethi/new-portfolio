@@ -8,7 +8,7 @@ twitter: https://x.com/paarugsethi
 
 A curious individual always looking for the highest standard of whatever I'm involved in.
 
-I’m a marketer, X "intern", community curator and indie builder working full-time in web3 (mostly Solana). I also have a [blog]https://paarugsethi.substack.com/) in which I infrequently write about everything life, tech and the future. I'm also a martial artist which has helped me to understand people better, communicate clearly and have a solution-oriented mindset toward life.
+I’m a marketer, X "intern", community curator and indie builder working full-time in web3 (mostly Solana). I also have a [blog](https://paarugsethi.substack.com/) in which I infrequently write about everything life, tech and the future. I'm also a martial artist which has helped me to understand people better, communicate clearly and have a solution-oriented mindset toward life.
 
 - Currently leading educational comms at [Squads](https://x.com/SquadsProtocol) and [Fuse](https://x.com/fusewallet).
 - Memes and social media at [Superteam Earn](https://x.com/SuperteamEarn)
