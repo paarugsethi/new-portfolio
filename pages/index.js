@@ -35,29 +35,21 @@ export default function Home({ posts }) {
           </p>
           <ul className="prose list-none pt-0 text-base dark:prose-dark">
             <li>
-              Content and Research at{' '}
+              Currently leading Content and Community at{' '}
+              <a href="https://x.com/SuperteamIN/" target="_blank" rel="noopener noreferrer">
+                Superteam India
+              </a>
+            </li>
+            <li>
+              Previously did Content and Research at{' '}
               <a href="https://squads.so/" target="_blank" rel="noopener noreferrer">
                 Squads Labs
               </a>
             </li>
             <li>
-              Memes and posts for{' '}
-              <a
-                href="https://www.twitter.com/SuperteamEarn"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
+              Ran marketing and made memes for{' '}
+              <a href="https://www.x.com/SuperteamEarn" target="_blank" rel="noopener noreferrer">
                 Superteam Earn
-              </a>
-            </li>
-            <li>
-              Previously lead Community at{' '}
-              <a
-                href="https://www.twitter.com/SuperteamDAO"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Superteam
               </a>
             </li>
             <li>
@@ -67,7 +59,13 @@ export default function Home({ posts }) {
               </a>
             </li>
             <li>
-              Co-founder of the{' '}
+              I sell minimal and fun t-shirts at{' '}
+              <a href="https://techbhai.shop/" target="_blank" rel="noopener noreferrer">
+                techbhai.shop
+              </a>
+            </li>
+            <li>
+              Co-founded the{' '}
               <a href="https://linktr.ee/slipperyslopes" target="_blank" rel="noopener noreferrer">
                 Slippery Slopes Podcast
               </a>
@@ -78,7 +76,7 @@ export default function Home({ posts }) {
                 Blog
               </a>{' '}
               and{' '}
-              <a href="https://twitter.com/paarugsethi" target="_blank" rel="noopener noreferrer">
+              <a href="https://x.com/paarugsethi" target="_blank" rel="noopener noreferrer">
                 Twitter
               </a>
             </li>

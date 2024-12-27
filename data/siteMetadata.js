@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Paarug Sethi',
   author: 'Paarug Sethi',
   headerTitle: 'PS',
-  description: 'Swiss Army Knife at work. Aspiring Rotator. Enthusiast.',
+  description: 'Swiss Army Knife at work. Enthusiast.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.paarug.com/',

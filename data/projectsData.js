@@ -1,5 +1,11 @@
 const projectsData = [
   {
+    title: 'techbhai [dot] shop',
+    description: `fun, minimal t-shirts around indian tech and pop culture.`,
+    imgSrc: '/static/images/techbhai.jpeg',
+    href: 'https://techbhai.shop/',
+  },
+  {
     title: 'dilli [dot] wiki',
     description: `a local's guide to everything you need to know about falling in love with Dilli.`,
     imgSrc: '/static/images/dilli.png',
