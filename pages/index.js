@@ -35,7 +35,7 @@ export default function Home({ posts }) {
           </p>
           <ul className="prose list-none pt-0 text-base dark:prose-dark">
             <li>
-              Currently leading Content and Community at{' '}
+              Leading{' '}
               <a href="https://x.com/SuperteamIN/" target="_blank" rel="noopener noreferrer">
                 Superteam India
               </a>
